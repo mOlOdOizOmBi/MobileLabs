@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="from_the_list">From the list</string>
+    <string name="choose_music_from_the_list">Choose music from the list</string>
+    <string name="click">Launch</string>
+
+    <string-array name="audios">
+        <item>smash mouth - all star</item>
+        <item>eminem - godzilla</item>
+    </string-array>
+    <string-array name="videos">
+        <item>Google expirience</item>
+        <item>Google joyride</item>
+    </string-array>
+    <string-array name="videoUrls">
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4</item>
+    </string-array>
+</resources>
