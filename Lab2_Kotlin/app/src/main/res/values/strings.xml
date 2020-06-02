@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab2_Kotlin</string>
+    <string name="spinner_title">Choose which picture deserves Oscar winning Award:</string>
+    <string name="Ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string-array name="films">
+        <item>Ford vs Ferrari</item>
+        <item>1917</item>
+        <item>Parasite</item>
+        <item>Joker</item>
+        <item>Once Upon a Time in Hollywood</item>
+    </string-array>
+    <string name="nothing_selected_item">Nothing selected</string>
+    <string name="nothing_selected">Nothing is selected at the moment :(</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
